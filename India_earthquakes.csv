@@ -1,0 +1,27 @@
+,Year,Disaster_Type,Disaster_Subtype,Location,Origin,Aid_Contribution,Dis_Mag_Value,Latitude,Longitude,Local Time,Start_Year,Start_Month,Start_Day,End_Year,End_Month,End_Day,Total_Deaths,Total_Affected,Total_Damages_USD,CPI
+1,1905,Earthquake,Ground movement,Kangra,,,8.0,32.04,76.16,06:20,1905,4.0,4.0,1905,4.0,4.0,20000.0,,25000.0,3.5223001018494
+34,1950,Earthquake,Ground movement,Assam province,,,9.0,28.5,96.5,19:39,1950,8.0,15.0,1950,8.0,15.0,1500.0,,20000.0,9.4319369393968
+47,1956,Earthquake,Ground movement,"Anjar, Bhuj, Gandhidham, Kandla",,,6.0,23,70,21:02,1956,7.0,21.0,1956,7.0,21.0,113.0,219.0,,10.6327191682906
+68,1967,Earthquake,Ground movement,"Maharashtra, Koynana",,,7.0,17.412,73.885,04:21,1967,12.0,11.0,1967,12.0,11.0,177.0,52272.0,400.0,13.048062107494
+77,1970,Earthquake,Ground movement,Broach,,,5.0,21.7,73,07:22,1970,3.0,23.0,1970,3.0,23.0,26.0,200.0,,15.1863354613098
+88,1975,Earthquake,Ground movement,"Kinnaur district, Kashmir; Himachal Pradesh",,,7.0,32.455,78.43,13:32,1975,1.0,19.0,1975,1.0,19.0,47.0,,,21.0503075151625
+186,1980,Earthquake,Ground movement,Jammu (Kashmir),,,6.0,32.913,75.633,03:06,1980,8.0,24.0,1980,8.0,24.0,13.0,40.0,,32.2338932328122
+232,1984,Earthquake,Ground movement,Cachar district (Assam),,,6.0,24.40 N,92.34 E,,1984,12.0,31.0,1984,12.0,31.0,20.0,10900.0,,40.6338038615079
+277,1986,Earthquake,Ground movement,Dharmsala,,,5.0,32.128 N,76.374 E,,1986,4.0,26.0,1986,4.0,26.0,6.0,30.0,5000.0,42.8731298312885
+340,1988,Earthquake,Ground movement,"Dharbhanga, Madhubani, Saharsa, Munger, Khagana, Bihar Sharie (Bihar State)",,,7.0,26.755,616,4:39,1988,8.0,21.0,1988,8.0,21.0,382.0,20003766.0,71500.0,46.256556831435
+457,1991,Earthquake,Ground movement,"Harsil (near Gangotri, Uttarkashi's Bhagirathi valley, Uttar Pradesh)",,,6.0,30.780 N,78.774 E,,1991,10.0,20.0,1991,10.0,20.0,1500.0,54383.0,60000.0,53.2711566167213
+519,1993,Earthquake,Ground movement,"Killari, Haegoan, Sostour, Holi (Latur and Osmanabad districts, Maharastra state)",,16452.0,6.0,16.40 N,74.20 E,,1993,9.0,29.0,1993,9.0,29.0,9748.0,30000.0,280000.0,56.5046456390697
+520,1993,Earthquake,Ground movement,Latur area,,,5.0,18.120 N,76.533 E,,1993,11.0,12.0,1993,11.0,12.0,,525.0,,56.5046456390697
+649,1997,Earthquake,Ground movement,Jabalpur (Madhya Pradesh),,,6.0,23.083 N,80.041 E,04:22,1997,5.0,22.0,1997,5.0,22.0,43.0,156500.0,37000.0,62.7858352045064
+756,1999,Earthquake,Ground movement,"Chamoli, Rudraprayag, Bageshwar (new district), Tehri Garhwal, Pauri Garhwal district",,25.0,7.0,30.512,79.403,0:35,1999,3.0,28.0,1999,3.0,28.0,100.0,477894.0,2000.0,65.1555468615283
+840,2001,Earthquake,Ground movement,"Ahmadabad, Amreli, Anand, Banas Kantha, Bharuch, Bhavnagar, Dahdod, Gandhinagar, Jamnagar, Junagadh, Kachchh, Kheda, Mahesana, Navsari, Patan, Porbandar, Rajkot, Sabar Kantha, Surat, Surendranagar, Vadodara districts (Gurajat province)",,118929.0,8.0,23.419,70.232,8:46,2001,1.0,26.0,2001,1.0,26.0,20005.0,6321812.0,2623000.0,69.259339950271
+880,2002,Earthquake,Ground movement,Andaman Islands district (Andaman and Nicobar province),,,7.0,13.036,93.068,4:00,2002,9.0,13.0,2002,9.0,13.0,2.0,200.0,,70.3578189693375
+937,2004,Earthquake,Tsunami,"Kancheepuram, Villupuram, Nagapattinam, Thoothukudi, Tirunelveli Kattabo, Kanniyakumari, Chennai, Thiruvallur, Cuddalore, Pudukkottai, Ramanathapuram, Sivaganga, Thanjavur districts (Tamil Nadu province), Vishakhapatnam, East Godavari, West Godavari, Krishna, Guntur, Prakasam, Nellore districts (Andhra Pradesh province), Kollam, Alappuzha, Ernakulam districts (Kerala province), Puducherry, Karaikal district (Puducherry province), Andaman and Nicobar province",Earthquake,,9.0,3.295,95.982,,2004,12.0,26.0,2004,12.0,26.0,16389.0,654512.0,1022800.0,73.8814124374447
+1011,2005,Earthquake,Ground movement,Administrative unit not available districts (Jammu and Kashmir province),,,8.0,34.539,73.588,,2005,10.0,8.0,2005,10.0,8.0,1309.0,156622.0,1000000.0,76.3880272118934
+1226,2011,Earthquake,Ground movement,"Sikkim, West Bengal, Bihar, Assam, Meghalaya provinces",,,7.0,27.73,88.155,18:11,2011,9.0,18.0,2011,9.0,18.0,112.0,575200.0,,87.9846029188446
+1276,2013,Earthquake,Ground movement,Administrive unit not available district (Jammu and Kashmir province),,,6.0,33.061,75.863,12:27,2013,5.0,1.0,2013,5.0,1.0,3.0,59350.0,120000.0,91.1207940325185
+1342,2015,Earthquake,Ground movement,"Bihar, Uttar Pradesh, West Bengal, Sikkim provinces",,,8.0,28.2305,84.7314,,2015,4.0,25.0,2015,4.0,25.0,78.0,560.0,,92.7088219860826
+1343,2015,Earthquake,Ground movement,Bihar province,,,7.0,27.8087,86.0655,12:35,2015,5.0,12.0,2015,5.0,12.0,20.0,,,92.7088219860826
+1344,2015,Earthquake,Ground movement,"Administrative unit not available districts (Jammu and Kashmir province), Delhi, Punjab provinces",,,8.0,36.5244,70.3676,13:39,2015,10.0,26.0,2015,10.0,26.0,,10.0,,92.7088219860826
+1367,2016,Earthquake,Ground movement,"Guwahati city (Kamrup district, Assam province), East Imphal, West Imphal, Senapati, Thoubal, Bishnupur, Tamenglong districts (Manipur province)",,,7.0,24.804,93.65,,2016,1.0,3.0,2016,1.0,3.0,8.0,10808.0,75000.0,93.878436484259
+1495,1966,Earthquake,Ground movement,North,,,6.0,28.7,78.9,07:45,1966,8.0,15.0,1966,8.0,15.0,15.0,,,12.6960281686485
